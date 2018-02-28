@@ -8,7 +8,7 @@ Summary of the Project:
 
 * EEG brain wave data from Kaggle is used for detecting the driver drowsiness detection - https://www.kaggle.com/wanghaohan/eeg-brain-wave-for-confusion.
 
-* For the traffic sign board recognition we resized all the images into 32*32*3 and used three fully connected layers with 200,100,62 number neurons in each layer.
+* For the traffic sign board recognition we resized all the images into 32×32×3 and used three fully connected layers with 200,100,62 number neurons in each layer.
 
 * Linear SVM is used to classify EEG Signal data for driver drowsiness detection.
 
@@ -19,6 +19,6 @@ Description of the python file:
 
 2. sign_model_3_out.py - Traffic Sign board recognition
 
-3. combined_out_main - Final classification based on the EEG data and Traffic sign board recognition.
+3. combined_out_main.py - Final classification based on the EEG data and Traffic sign board recognition.
 
 
